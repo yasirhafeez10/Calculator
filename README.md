@@ -35,7 +35,7 @@ SmartCalculator/
 
 ## Installation
 
-Install the required package with:
+Install the required package:
 
 ```bash
 pip install -r requirements.txt
